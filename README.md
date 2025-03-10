@@ -79,5 +79,4 @@ cd 24H-Self-driving-car
 ## 联系
 
 - 项目作者：[D77go77](https://github.com/D77go77)
-- 电子邮件：your_email@example.com
 ```
