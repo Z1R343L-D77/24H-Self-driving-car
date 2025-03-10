@@ -78,5 +78,5 @@ cd 24H-Self-driving-car
 
 ## 联系
 
-- 项目作者：[D77go77](https://github.com/Z1R343L-D77go77)
+- 项目作者：[D77go77](https://github.com/Z1R343L-D77)
 ```
